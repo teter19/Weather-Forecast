@@ -1,0 +1,1514 @@
+2021-05-16 19:26:54 [main] INFO  example.Main - Launching Weather Station!
+2021-05-16 19:26:54 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-16 21:32:34 [main] INFO  example.Main - Launching Weather Station!
+2021-05-16 21:32:34 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-16 21:32:50 [main] INFO  example.Main - Launching Weather Station!
+2021-05-16 21:32:50 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-16 21:33:01 [main] INFO  example.Main - Launching Weather Station!
+2021-05-16 21:33:01 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-16 21:36:06 [main] INFO  example.Main - Launching Weather Station!
+2021-05-16 21:36:06 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-16 21:38:30 [main] INFO  example.Main - Launching Weather Station!
+2021-05-16 21:38:30 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-16 21:49:47 [main] INFO  example.Main - Launching Weather Station!
+2021-05-16 21:49:47 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-16 22:18:49 [main] INFO  example.Main - Launching Weather Station!
+2021-05-16 22:18:49 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-16 22:22:20 [main] INFO  example.Main - Launching Weather Station!
+2021-05-16 22:22:20 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-16 22:22:37 [main] INFO  example.Main - Launching Weather Station!
+2021-05-16 22:22:37 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-16 22:25:20 [main] INFO  example.Main - Launching Weather Station!
+2021-05-16 22:25:20 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-16 22:25:55 [main] INFO  example.Main - Launching Weather Station!
+2021-05-16 22:25:55 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-16 22:31:12 [main] INFO  example.Main - Launching Weather Station!
+2021-05-16 22:31:12 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-16 22:32:51 [main] INFO  example.Main - Launching Weather Station!
+2021-05-16 22:32:51 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-16 22:55:08 [main] INFO  example.Main - Launching Weather Station!
+2021-05-16 22:55:08 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-16 22:55:21 [main] INFO  example.Main - Launching Weather Station!
+2021-05-16 22:55:21 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-16 22:55:38 [main] INFO  example.Main - Launching Weather Station!
+2021-05-16 22:55:38 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-17 00:13:40 [main] INFO  example.Main - Launching Weather Station!
+2021-05-17 00:13:40 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-17 00:16:13 [main] INFO  example.Main - Launching Weather Station!
+2021-05-17 00:16:13 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-17 00:17:38 [main] INFO  example.Main - Launching Weather Station!
+2021-05-17 00:17:38 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-17 00:18:11 [main] INFO  example.Main - Launching Weather Station!
+2021-05-17 00:18:11 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-23 19:01:54 [main] INFO  example.Main - Launching Weather Station!
+2021-05-23 19:01:54 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-23 19:02:16 [main] INFO  example.Main - Launching Weather Station!
+2021-05-23 19:02:16 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-23 19:06:52 [main] INFO  example.Main - Launching Weather Station!
+2021-05-23 19:06:52 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-24 08:29:28 [main] INFO  example.Main - Launching Weather Station!
+2021-05-24 08:29:28 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-24 08:29:45 [main] INFO  example.Main - Launching Weather Station!
+2021-05-24 08:29:45 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-25 21:20:22 [main] INFO  example.Main - Launching Weather Station!
+2021-05-25 21:20:22 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-25 21:20:30 [main] INFO  example.Main - Launching Weather Station!
+2021-05-25 21:20:30 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-25 21:20:48 [main] INFO  example.Main - Launching Weather Station!
+2021-05-25 21:20:48 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-25 21:21:17 [main] INFO  example.Main - Launching Weather Station!
+2021-05-25 21:21:17 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-25 21:22:28 [main] INFO  example.Main - Launching Weather Station!
+2021-05-25 21:22:28 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-29 12:32:25 [main] INFO  example.Main - Launching Weather Station!
+2021-05-29 12:32:25 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-29 12:59:10 [main] INFO  example.Main - Launching Weather Station!
+2021-05-29 12:59:10 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-29 12:59:23 [main] INFO  example.Main - Launching Weather Station!
+2021-05-29 12:59:23 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-29 13:01:10 [main] INFO  example.Main - Launching Weather Station!
+2021-05-29 13:01:10 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-29 13:02:03 [main] INFO  example.Main - Launching Weather Station!
+2021-05-29 13:02:03 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-29 13:05:45 [main] INFO  example.Main - Launching Weather Station!
+2021-05-29 13:05:45 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-29 13:06:52 [main] INFO  example.Main - Launching Weather Station!
+2021-05-29 13:06:52 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-29 13:16:39 [main] INFO  example.Main - Launching Weather Station!
+2021-05-29 13:16:39 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-29 13:17:23 [main] INFO  example.Main - Launching Weather Station!
+2021-05-29 13:17:23 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 15:38:57 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 15:38:57 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 15:39:12 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 15:39:12 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 16:37:15 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 16:37:15 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 16:41:09 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 16:41:09 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 16:47:36 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 16:47:36 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 16:53:08 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 16:53:08 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 16:55:12 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 16:55:12 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 16:55:47 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 16:55:47 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 16:58:37 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 16:58:37 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 16:59:41 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 16:59:41 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 17:00:10 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 17:00:10 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 17:01:45 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 17:01:45 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 17:02:32 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 17:02:32 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 17:03:16 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 17:03:16 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 17:03:37 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 17:03:37 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 17:06:00 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 17:06:00 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 17:06:15 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 17:06:15 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 17:06:30 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 17:06:30 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 17:20:53 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 17:20:53 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 17:24:10 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 17:24:10 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 17:26:25 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 17:26:25 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 17:27:11 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 17:27:11 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 17:27:40 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 17:27:40 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 17:30:22 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 17:30:22 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 17:31:53 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 17:31:53 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 17:32:25 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 17:32:25 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 17:37:57 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 17:37:57 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 17:39:03 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 17:39:03 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 17:39:59 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 17:39:59 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 17:40:13 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 17:40:13 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 17:40:34 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 17:40:34 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 18:03:45 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 18:03:45 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 18:03:57 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 18:03:57 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 18:04:15 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 18:04:15 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 18:04:23 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 18:04:23 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 18:05:42 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 18:05:42 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 18:06:59 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 18:06:59 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 18:08:08 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 18:08:08 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 18:09:01 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 18:09:01 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 18:09:09 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 18:09:09 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 18:09:30 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 18:09:30 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 18:10:23 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 18:10:23 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 18:10:37 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 18:10:37 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 18:12:25 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 18:12:25 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 18:12:52 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 18:12:52 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 18:19:11 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 18:19:11 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 18:19:47 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 18:19:47 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 18:20:07 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 18:20:07 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 18:20:28 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 18:20:28 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 18:21:10 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 18:21:10 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 18:21:23 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 18:21:23 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 18:21:43 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 18:21:43 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 18:28:59 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 18:28:59 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 18:29:45 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 18:29:45 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 18:30:47 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 18:30:47 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 18:32:56 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 18:32:56 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 18:33:57 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 18:33:57 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 18:35:25 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 18:35:25 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 18:38:22 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 18:38:22 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 18:39:00 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 18:39:00 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 18:39:36 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 18:39:36 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 18:47:53 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 18:47:53 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 18:48:10 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 18:48:10 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 18:51:03 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 18:51:03 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 18:51:14 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 18:51:14 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 18:51:55 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 18:51:55 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 18:52:22 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 18:52:22 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 18:53:08 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 18:53:08 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 18:55:55 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 18:55:55 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 18:55:56 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-05-30 18:55:57 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-05-30 18:55:57 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-jutro#weather-menu
+2021-05-30 18:55:57 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Jutro Pn
+2021-05-30 18:55:57 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-pojutrze#weather-menu
+2021-05-30 18:55:58 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pojutrze Wt
+2021-05-30 18:55:58 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-02#weather-menu
+2021-05-30 18:55:58 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Śr 02.06
+2021-05-30 18:56:53 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 18:56:53 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 18:56:54 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-05-30 18:56:54 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-05-30 18:56:54 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-jutro#weather-menu
+2021-05-30 18:56:55 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Jutro Pn
+2021-05-30 18:56:55 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-pojutrze#weather-menu
+2021-05-30 18:56:55 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pojutrze Wt
+2021-05-30 18:56:55 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-02#weather-menu
+2021-05-30 18:56:56 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Śr 02.06
+2021-05-30 19:00:01 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 19:00:01 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 19:00:02 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-05-30 19:00:03 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-05-30 19:00:03 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-jutro#weather-menu
+2021-05-30 19:00:03 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Jutro Pn
+2021-05-30 19:00:03 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-pojutrze#weather-menu
+2021-05-30 19:00:04 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pojutrze Wt
+2021-05-30 19:00:04 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-02#weather-menu
+2021-05-30 19:00:05 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Śr 02.06
+2021-05-30 19:00:57 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 19:00:57 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 19:00:58 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-05-30 19:00:58 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-05-30 19:00:58 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-jutro#weather-menu
+2021-05-30 19:00:59 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Jutro Pn
+2021-05-30 19:00:59 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-pojutrze#weather-menu
+2021-05-30 19:01:00 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pojutrze Wt
+2021-05-30 19:01:00 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-02#weather-menu
+2021-05-30 19:01:00 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Śr 02.06
+2021-05-30 19:01:00 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-03#weather-menu
+2021-05-30 19:01:01 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Cz 03.06
+2021-05-30 19:01:01 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-04#weather-menu
+2021-05-30 19:01:01 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pt 04.06
+2021-05-30 19:01:01 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-05#weather-menu
+2021-05-30 19:01:02 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Sb 05.06
+2021-05-30 19:01:12 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 19:01:12 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 19:01:12 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-05-30 19:01:12 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-05-30 19:01:12 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-jutro#weather-menu
+2021-05-30 19:01:13 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Jutro Pn
+2021-05-30 19:01:13 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-pojutrze#weather-menu
+2021-05-30 19:01:13 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pojutrze Wt
+2021-05-30 19:01:13 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-02#weather-menu
+2021-05-30 19:01:14 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Śr 02.06
+2021-05-30 19:01:14 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-03#weather-menu
+2021-05-30 19:01:14 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Cz 03.06
+2021-05-30 19:01:14 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-04#weather-menu
+2021-05-30 19:01:14 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pt 04.06
+2021-05-30 19:01:50 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 19:01:50 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 19:01:51 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-05-30 19:01:52 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-05-30 19:01:52 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-jutro#weather-menu
+2021-05-30 19:01:52 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Jutro Pn
+2021-05-30 19:01:52 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-pojutrze#weather-menu
+2021-05-30 19:01:52 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pojutrze Wt
+2021-05-30 19:01:52 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-02#weather-menu
+2021-05-30 19:01:52 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Śr 02.06
+2021-05-30 19:01:52 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-03#weather-menu
+2021-05-30 19:01:53 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Cz 03.06
+2021-05-30 19:01:53 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-04#weather-menu
+2021-05-30 19:01:54 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pt 04.06
+2021-05-30 19:05:14 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 19:05:14 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 19:05:15 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-05-30 19:05:15 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-05-30 19:05:15 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-jutro#weather-menu
+2021-05-30 19:05:16 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Jutro Pn
+2021-05-30 19:05:16 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-pojutrze#weather-menu
+2021-05-30 19:05:16 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pojutrze Wt
+2021-05-30 19:05:16 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-02#weather-menu
+2021-05-30 19:05:17 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Śr 02.06
+2021-05-30 19:05:17 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-03#weather-menu
+2021-05-30 19:05:17 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Cz 03.06
+2021-05-30 19:05:17 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-04#weather-menu
+2021-05-30 19:05:17 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pt 04.06
+2021-05-30 19:15:30 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 19:15:30 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 19:15:31 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-05-30 19:15:32 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-05-30 19:15:32 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-jutro#weather-menu
+2021-05-30 19:15:33 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Jutro Pn
+2021-05-30 19:15:33 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-pojutrze#weather-menu
+2021-05-30 19:15:33 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pojutrze Wt
+2021-05-30 19:15:33 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-02#weather-menu
+2021-05-30 19:15:34 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Śr 02.06
+2021-05-30 19:15:34 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-03#weather-menu
+2021-05-30 19:15:34 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Cz 03.06
+2021-05-30 19:15:34 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-04#weather-menu
+2021-05-30 19:15:35 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pt 04.06
+2021-05-30 19:17:47 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 19:17:47 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 19:17:48 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-05-30 19:18:19 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 19:18:19 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 19:18:20 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-05-30 19:19:21 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 19:19:21 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 19:19:21 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-05-30 19:19:22 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-05-30 19:19:22 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-jutro#weather-menu
+2021-05-30 19:19:23 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Jutro Pn
+2021-05-30 19:19:23 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-pojutrze#weather-menu
+2021-05-30 19:19:23 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pojutrze Wt
+2021-05-30 19:19:23 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-02#weather-menu
+2021-05-30 19:19:24 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Śr 02.06
+2021-05-30 19:19:24 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-03#weather-menu
+2021-05-30 19:19:24 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Cz 03.06
+2021-05-30 19:19:24 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-04#weather-menu
+2021-05-30 19:19:24 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pt 04.06
+2021-05-30 19:19:59 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 19:19:59 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 19:20:00 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-05-30 19:20:00 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-05-30 19:20:00 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-jutro#weather-menu
+2021-05-30 19:20:01 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Jutro Pn
+2021-05-30 19:20:01 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-pojutrze#weather-menu
+2021-05-30 19:20:02 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pojutrze Wt
+2021-05-30 19:20:02 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-02#weather-menu
+2021-05-30 19:20:02 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Śr 02.06
+2021-05-30 19:20:02 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-03#weather-menu
+2021-05-30 19:20:03 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Cz 03.06
+2021-05-30 19:20:03 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-04#weather-menu
+2021-05-30 19:20:03 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pt 04.06
+2021-05-30 19:20:58 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 19:20:58 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 19:20:59 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-05-30 19:20:59 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-05-30 19:20:59 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-jutro#weather-menu
+2021-05-30 19:21:00 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Jutro Pn
+2021-05-30 19:21:00 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-pojutrze#weather-menu
+2021-05-30 19:21:01 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pojutrze Wt
+2021-05-30 19:21:01 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-02#weather-menu
+2021-05-30 19:21:01 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Śr 02.06
+2021-05-30 19:21:01 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-03#weather-menu
+2021-05-30 19:21:02 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Cz 03.06
+2021-05-30 19:21:02 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-04#weather-menu
+2021-05-30 19:21:02 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pt 04.06
+2021-05-30 19:22:09 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 19:22:09 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 19:22:10 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-05-30 19:22:10 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-05-30 19:22:10 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-jutro#weather-menu
+2021-05-30 19:22:11 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Jutro Pn
+2021-05-30 19:22:11 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-pojutrze#weather-menu
+2021-05-30 19:22:11 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pojutrze Wt
+2021-05-30 19:22:11 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-02#weather-menu
+2021-05-30 19:22:12 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Śr 02.06
+2021-05-30 19:22:12 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-03#weather-menu
+2021-05-30 19:22:12 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Cz 03.06
+2021-05-30 19:22:12 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-04#weather-menu
+2021-05-30 19:22:13 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pt 04.06
+2021-05-30 19:22:52 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 19:22:52 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 19:22:53 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-05-30 19:22:53 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-05-30 19:22:53 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-jutro#weather-menu
+2021-05-30 19:22:54 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Jutro Pn
+2021-05-30 19:22:54 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-pojutrze#weather-menu
+2021-05-30 19:22:54 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pojutrze Wt
+2021-05-30 19:22:54 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-02#weather-menu
+2021-05-30 19:22:55 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Śr 02.06
+2021-05-30 19:22:55 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-03#weather-menu
+2021-05-30 19:22:55 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Cz 03.06
+2021-05-30 19:22:55 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-04#weather-menu
+2021-05-30 19:22:56 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pt 04.06
+2021-05-30 19:23:13 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 19:23:13 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 19:23:14 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-05-30 19:23:46 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 19:23:46 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 19:23:47 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-05-30 19:26:45 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 19:26:45 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 19:26:46 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-05-30 19:26:47 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-05-30 19:26:47 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-jutro#weather-menu
+2021-05-30 19:26:47 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Jutro Pn
+2021-05-30 19:26:47 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-pojutrze#weather-menu
+2021-05-30 19:26:48 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pojutrze Wt
+2021-05-30 19:26:48 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-02#weather-menu
+2021-05-30 19:26:48 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Śr 02.06
+2021-05-30 19:26:48 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-03#weather-menu
+2021-05-30 19:26:49 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Cz 03.06
+2021-05-30 19:26:49 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-04#weather-menu
+2021-05-30 19:26:49 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pt 04.06
+2021-05-30 19:27:11 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 19:27:11 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 19:27:12 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-05-30 19:27:13 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-05-30 19:27:13 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-jutro#weather-menu
+2021-05-30 19:27:13 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Jutro Pn
+2021-05-30 19:27:13 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-pojutrze#weather-menu
+2021-05-30 19:27:13 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pojutrze Wt
+2021-05-30 19:27:13 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-02#weather-menu
+2021-05-30 19:27:14 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Śr 02.06
+2021-05-30 19:27:14 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-03#weather-menu
+2021-05-30 19:27:14 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Cz 03.06
+2021-05-30 19:27:14 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-04#weather-menu
+2021-05-30 19:27:15 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pt 04.06
+2021-05-30 19:29:34 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 19:29:34 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 19:29:35 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-05-30 19:29:36 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-05-30 19:29:36 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-jutro#weather-menu
+2021-05-30 19:29:36 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Jutro Pn
+2021-05-30 19:29:36 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-pojutrze#weather-menu
+2021-05-30 19:29:37 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pojutrze Wt
+2021-05-30 19:29:37 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-02#weather-menu
+2021-05-30 19:29:38 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Śr 02.06
+2021-05-30 19:29:38 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-03#weather-menu
+2021-05-30 19:29:38 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Cz 03.06
+2021-05-30 19:29:38 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-04#weather-menu
+2021-05-30 19:29:39 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pt 04.06
+2021-05-30 20:21:07 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 20:21:07 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 20:21:09 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-05-30 20:21:09 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-05-30 20:21:09 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-jutro#weather-menu
+2021-05-30 20:21:10 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Jutro Pn
+2021-05-30 20:21:10 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-pojutrze#weather-menu
+2021-05-30 20:21:10 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pojutrze Wt
+2021-05-30 20:21:10 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-02#weather-menu
+2021-05-30 20:21:11 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Śr 02.06
+2021-05-30 20:21:11 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-03#weather-menu
+2021-05-30 20:21:11 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Cz 03.06
+2021-05-30 20:21:11 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-04#weather-menu
+2021-05-30 20:21:11 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pt 04.06
+2021-05-30 20:33:37 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 20:33:37 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 20:33:38 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-05-30 20:33:38 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-05-30 20:33:38 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-jutro#weather-menu
+2021-05-30 20:33:39 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Jutro Pn
+2021-05-30 20:33:39 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-pojutrze#weather-menu
+2021-05-30 20:33:39 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pojutrze Wt
+2021-05-30 20:33:39 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-02#weather-menu
+2021-05-30 20:33:39 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Śr 02.06
+2021-05-30 20:33:39 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-03#weather-menu
+2021-05-30 20:33:39 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Cz 03.06
+2021-05-30 20:33:39 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-04#weather-menu
+2021-05-30 20:33:39 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pt 04.06
+2021-05-30 21:12:36 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 21:12:36 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 21:12:37 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-05-30 21:12:37 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-05-30 21:12:37 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-jutro#weather-menu
+2021-05-30 21:12:38 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Jutro Pn
+2021-05-30 21:12:38 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-pojutrze#weather-menu
+2021-05-30 21:12:38 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pojutrze Wt
+2021-05-30 21:12:38 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-02#weather-menu
+2021-05-30 21:12:39 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Śr 02.06
+2021-05-30 21:12:39 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-03#weather-menu
+2021-05-30 21:12:39 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Cz 03.06
+2021-05-30 21:12:39 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-04#weather-menu
+2021-05-30 21:12:40 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pt 04.06
+2021-05-30 21:28:32 [main] INFO  example.Main - Launching Weather Station!
+2021-05-30 21:28:32 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-30 21:28:33 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-05-30 21:28:33 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-05-30 21:28:33 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-jutro#weather-menu
+2021-05-30 21:28:33 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Jutro Pn
+2021-05-30 21:28:33 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-pojutrze#weather-menu
+2021-05-30 21:28:33 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pojutrze Wt
+2021-05-30 21:28:33 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-02#weather-menu
+2021-05-30 21:28:34 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Śr 02.06
+2021-05-30 21:28:34 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-03#weather-menu
+2021-05-30 21:28:34 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Cz 03.06
+2021-05-30 21:28:34 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-04#weather-menu
+2021-05-30 21:28:35 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pt 04.06
+2021-05-31 01:58:29 [main] INFO  example.Main - Launching Weather Station!
+2021-05-31 01:58:29 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-31 01:58:30 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-05-31 01:58:31 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-05-31 01:58:31 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-jutro#weather-menu
+2021-05-31 01:58:31 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Jutro Wt
+2021-05-31 01:58:31 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-pojutrze#weather-menu
+2021-05-31 01:58:32 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pojutrze Śr
+2021-05-31 01:58:32 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-03#weather-menu
+2021-05-31 01:58:32 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Cz 03.06
+2021-05-31 01:58:32 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-04#weather-menu
+2021-05-31 01:58:33 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pt 04.06
+2021-05-31 01:58:33 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-05#weather-menu
+2021-05-31 01:58:33 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Sb 05.06
+2021-05-31 08:04:01 [main] INFO  example.Main - Launching Weather Station!
+2021-05-31 08:04:01 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-05-31 08:04:02 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-05-31 08:04:02 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-05-31 08:04:02 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-jutro#weather-menu
+2021-05-31 08:04:02 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Jutro Wt
+2021-05-31 08:04:02 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-pojutrze#weather-menu
+2021-05-31 08:04:03 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pojutrze Śr
+2021-05-31 08:04:03 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-03#weather-menu
+2021-05-31 08:04:04 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Cz 03.06
+2021-05-31 08:04:04 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-04#weather-menu
+2021-05-31 08:04:04 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pt 04.06
+2021-05-31 08:04:04 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-05#weather-menu
+2021-05-31 08:04:04 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Sb 05.06
+2021-05-31 19:30:32 [main] INFO  example.Main - Launching Weather Station!
+2021-05-31 19:30:32 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-05 17:22:55 [main] INFO  example.Main - Launching Weather Station!
+2021-06-05 17:22:55 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-05 17:23:16 [main] INFO  example.Main - Launching Weather Station!
+2021-06-05 17:23:16 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-05 17:23:30 [main] INFO  example.Main - Launching Weather Station!
+2021-06-05 17:23:30 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-05 17:23:51 [main] INFO  example.Main - Launching Weather Station!
+2021-06-05 17:23:51 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-05 17:23:51 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-06-05 17:23:52 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-06-05 17:23:52 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-jutro#weather-menu
+2021-06-05 17:23:53 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Jutro Nd
+2021-06-05 17:23:53 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-pojutrze#weather-menu
+2021-06-05 17:23:54 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pojutrze Pn
+2021-06-05 17:23:54 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-08#weather-menu
+2021-06-05 17:23:54 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Wt 08.06
+2021-06-05 17:23:54 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-09#weather-menu
+2021-06-05 17:23:55 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Śr 09.06
+2021-06-05 17:23:55 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-10#weather-menu
+2021-06-05 17:23:55 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Cz 10.06
+2021-06-05 17:24:49 [main] INFO  example.Main - Launching Weather Station!
+2021-06-05 17:24:49 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-05 17:24:50 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-06-05 17:24:50 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-06-05 17:24:50 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-jutro#weather-menu
+2021-06-05 17:24:51 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Jutro Nd
+2021-06-05 17:24:51 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-pojutrze#weather-menu
+2021-06-05 17:24:51 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pojutrze Pn
+2021-06-05 17:24:51 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-08#weather-menu
+2021-06-05 17:24:52 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Wt 08.06
+2021-06-05 17:24:52 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-09#weather-menu
+2021-06-05 17:24:53 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Śr 09.06
+2021-06-05 17:24:53 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-10#weather-menu
+2021-06-05 17:24:53 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Cz 10.06
+2021-06-05 17:25:12 [main] INFO  example.Main - Launching Weather Station!
+2021-06-05 17:25:12 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-05 17:25:13 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-06-05 17:25:14 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-06-05 17:25:14 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-jutro#weather-menu
+2021-06-05 17:25:14 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Jutro Nd
+2021-06-05 17:25:14 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-pojutrze#weather-menu
+2021-06-05 17:25:15 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pojutrze Pn
+2021-06-05 17:25:15 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-08#weather-menu
+2021-06-05 17:25:15 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Wt 08.06
+2021-06-05 17:25:15 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-09#weather-menu
+2021-06-05 17:25:15 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Śr 09.06
+2021-06-05 17:25:15 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-10#weather-menu
+2021-06-05 17:25:16 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Cz 10.06
+2021-06-05 17:25:33 [main] INFO  example.Main - Launching Weather Station!
+2021-06-05 17:25:33 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-05 17:25:34 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-06-05 17:25:35 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-06-05 17:25:35 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-jutro#weather-menu
+2021-06-05 17:25:35 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Jutro Nd
+2021-06-05 17:25:35 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-pojutrze#weather-menu
+2021-06-05 17:25:35 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pojutrze Pn
+2021-06-05 17:25:35 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-08#weather-menu
+2021-06-05 17:25:36 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Wt 08.06
+2021-06-05 17:25:36 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-09#weather-menu
+2021-06-05 17:25:36 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Śr 09.06
+2021-06-05 17:25:36 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-10#weather-menu
+2021-06-05 17:25:36 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Cz 10.06
+2021-06-05 17:26:18 [main] INFO  example.Main - Launching Weather Station!
+2021-06-05 17:26:18 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-05 17:26:18 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-06-05 17:26:19 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-06-05 17:26:19 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-jutro#weather-menu
+2021-06-05 17:26:19 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Jutro Nd
+2021-06-05 17:26:19 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-pojutrze#weather-menu
+2021-06-05 17:26:20 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pojutrze Pn
+2021-06-05 17:26:20 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-08#weather-menu
+2021-06-05 17:26:21 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Wt 08.06
+2021-06-05 17:26:21 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-09#weather-menu
+2021-06-05 17:26:21 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Śr 09.06
+2021-06-05 17:26:21 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-10#weather-menu
+2021-06-05 17:26:22 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Cz 10.06
+2021-06-05 17:26:32 [main] INFO  example.Main - Launching Weather Station!
+2021-06-05 17:26:32 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-05 17:26:33 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-06-05 17:26:33 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-06-05 17:26:33 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-jutro#weather-menu
+2021-06-05 17:26:33 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Jutro Nd
+2021-06-05 17:26:33 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-pojutrze#weather-menu
+2021-06-05 17:26:34 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pojutrze Pn
+2021-06-05 17:26:34 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-08#weather-menu
+2021-06-05 17:26:34 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Wt 08.06
+2021-06-05 17:26:34 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-09#weather-menu
+2021-06-05 17:26:34 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Śr 09.06
+2021-06-05 17:26:34 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-10#weather-menu
+2021-06-05 17:26:34 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Cz 10.06
+2021-06-05 20:54:54 [main] INFO  example.Main - Launching Weather Station!
+2021-06-05 20:54:54 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-05 20:55:16 [main] INFO  example.Main - Launching Weather Station!
+2021-06-05 20:55:16 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-05 20:55:17 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-06-05 20:55:18 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-06-05 20:55:18 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-jutro#weather-menu
+2021-06-05 20:55:18 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Jutro Nd
+2021-06-05 20:55:18 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-pojutrze#weather-menu
+2021-06-05 20:55:19 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pojutrze Pn
+2021-06-05 20:55:19 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-08#weather-menu
+2021-06-05 20:55:19 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Wt 08.06
+2021-06-05 20:56:58 [main] INFO  example.Main - Launching Weather Station!
+2021-06-05 20:56:58 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-05 20:56:59 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-06-05 20:57:00 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-06-05 20:57:00 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-jutro#weather-menu
+2021-06-05 20:57:00 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Jutro Nd
+2021-06-05 20:57:00 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-pojutrze#weather-menu
+2021-06-05 20:57:01 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pojutrze Pn
+2021-06-05 20:57:01 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-08#weather-menu
+2021-06-05 20:57:01 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Wt 08.06
+2021-06-05 20:57:25 [main] INFO  example.Main - Launching Weather Station!
+2021-06-05 20:57:25 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-05 20:57:26 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-06-05 20:57:27 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-06-05 20:57:27 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-jutro#weather-menu
+2021-06-05 20:57:27 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Jutro Nd
+2021-06-05 20:57:27 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-pojutrze#weather-menu
+2021-06-05 20:57:28 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pojutrze Pn
+2021-06-05 20:57:28 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-08#weather-menu
+2021-06-05 20:57:28 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Wt 08.06
+2021-06-05 20:58:45 [main] INFO  example.Main - Launching Weather Station!
+2021-06-05 20:58:45 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-05 20:58:45 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-06-05 20:58:45 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-06-05 20:58:45 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-jutro#weather-menu
+2021-06-05 20:58:46 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Jutro Nd
+2021-06-05 20:58:46 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-pojutrze#weather-menu
+2021-06-05 20:58:47 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pojutrze Pn
+2021-06-05 20:58:47 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-08#weather-menu
+2021-06-05 20:58:47 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Wt 08.06
+2021-06-05 20:59:22 [main] INFO  example.Main - Launching Weather Station!
+2021-06-05 20:59:22 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-05 20:59:23 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-06-05 20:59:24 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-06-05 20:59:24 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-jutro#weather-menu
+2021-06-05 20:59:24 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Jutro Nd
+2021-06-05 20:59:24 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-pojutrze#weather-menu
+2021-06-05 20:59:25 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pojutrze Pn
+2021-06-05 20:59:25 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-08#weather-menu
+2021-06-05 20:59:25 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Wt 08.06
+2021-06-05 21:15:56 [main] INFO  example.Main - Launching Weather Station!
+2021-06-05 21:15:56 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-05 21:15:56 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-06-05 21:15:57 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-06-05 21:15:57 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-jutro#weather-menu
+2021-06-05 21:15:58 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Jutro Nd
+2021-06-05 21:15:58 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-pojutrze#weather-menu
+2021-06-05 21:15:58 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pojutrze Pn
+2021-06-05 21:15:58 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-08#weather-menu
+2021-06-05 21:15:59 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Wt 08.06
+2021-06-05 21:16:13 [main] INFO  example.Main - Launching Weather Station!
+2021-06-05 21:16:13 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-05 21:16:14 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-06-05 21:16:15 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-06-05 21:16:15 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-jutro#weather-menu
+2021-06-05 21:16:15 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Jutro Nd
+2021-06-05 21:16:15 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-pojutrze#weather-menu
+2021-06-05 21:16:16 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pojutrze Pn
+2021-06-05 21:16:16 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-08#weather-menu
+2021-06-05 21:16:16 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Wt 08.06
+2021-06-05 21:17:08 [main] INFO  example.Main - Launching Weather Station!
+2021-06-05 21:17:08 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-05 21:17:09 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-06-05 21:17:09 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-06-05 21:17:09 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-jutro#weather-menu
+2021-06-05 21:17:10 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Jutro Nd
+2021-06-05 21:17:10 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-pojutrze#weather-menu
+2021-06-05 21:17:10 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pojutrze Pn
+2021-06-05 21:17:10 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-08#weather-menu
+2021-06-05 21:17:10 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Wt 08.06
+2021-06-05 21:23:59 [main] INFO  example.Main - Launching Weather Station!
+2021-06-05 21:23:59 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-05 21:23:59 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-06-05 21:24:00 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-06-05 21:24:00 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-jutro#weather-menu
+2021-06-05 21:24:01 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Jutro Nd
+2021-06-05 22:47:37 [main] INFO  example.Main - Launching Weather Station!
+2021-06-05 22:47:37 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-05 22:47:38 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-06-05 22:47:39 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-06-05 22:47:39 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-jutro#weather-menu
+2021-06-05 22:47:39 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Jutro Nd
+2021-06-06 12:49:01 [main] INFO  example.Main - Launching Weather Station!
+2021-06-06 12:49:01 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-06 12:49:02 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-06-06 12:49:03 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-06-06 12:49:03 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-jutro#weather-menu
+2021-06-06 12:49:04 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Jutro Pn
+2021-06-06 12:58:53 [main] INFO  example.Main - Launching Weather Station!
+2021-06-06 12:58:53 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-06 12:58:54 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-06-06 12:58:55 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-06-06 12:58:55 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-jutro#weather-menu
+2021-06-06 12:58:55 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Jutro Pn
+2021-06-06 13:02:29 [main] INFO  example.Main - Launching Weather Station!
+2021-06-06 13:02:29 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-06 13:02:30 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-06-06 13:02:30 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-06-06 13:02:30 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-jutro#weather-menu
+2021-06-06 13:02:31 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Jutro Pn
+2021-06-06 13:03:02 [main] INFO  example.Main - Launching Weather Station!
+2021-06-06 13:03:02 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-06 13:03:02 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-06-06 13:03:03 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-06-06 13:03:03 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-jutro#weather-menu
+2021-06-06 13:03:04 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Jutro Pn
+2021-06-06 13:03:41 [main] INFO  example.Main - Launching Weather Station!
+2021-06-06 13:03:41 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-06 13:03:42 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-06-06 13:03:42 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-06-06 13:03:42 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-jutro#weather-menu
+2021-06-06 13:03:43 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Jutro Pn
+2021-06-06 13:04:05 [main] INFO  example.Main - Launching Weather Station!
+2021-06-06 13:04:05 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-06 13:04:06 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-06-06 13:04:06 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-06-06 13:04:06 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-jutro#weather-menu
+2021-06-06 13:04:07 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Jutro Pn
+2021-06-06 13:04:32 [main] INFO  example.Main - Launching Weather Station!
+2021-06-06 13:04:32 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-06 13:04:33 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-06-06 13:04:34 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-06-06 13:04:34 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-jutro#weather-menu
+2021-06-06 13:04:34 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Jutro Pn
+2021-06-06 13:05:47 [main] INFO  example.Main - Launching Weather Station!
+2021-06-06 13:05:47 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-06 13:05:48 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-06-06 13:05:49 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-06-06 13:05:49 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-jutro#weather-menu
+2021-06-06 13:05:49 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Jutro Pn
+2021-06-06 13:05:49 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-pojutrze#weather-menu
+2021-06-06 13:05:50 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pojutrze Wt
+2021-06-06 13:05:50 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-09#weather-menu
+2021-06-06 13:05:50 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Śr 09.06
+2021-06-06 13:05:50 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-10#weather-menu
+2021-06-06 13:05:51 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Cz 10.06
+2021-06-06 13:05:51 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-11#weather-menu
+2021-06-06 13:05:51 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pt 11.06
+2021-06-06 13:25:29 [main] INFO  example.Main - Launching Weather Station!
+2021-06-06 13:25:29 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-06 13:25:31 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-06-06 13:25:32 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-06-06 13:25:32 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-jutro#weather-menu
+2021-06-06 13:25:32 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Jutro Pn
+2021-06-06 13:25:32 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-pojutrze#weather-menu
+2021-06-06 13:25:33 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pojutrze Wt
+2021-06-06 13:25:33 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-09#weather-menu
+2021-06-06 13:25:33 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Śr 09.06
+2021-06-06 13:25:33 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-10#weather-menu
+2021-06-06 13:25:34 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Cz 10.06
+2021-06-06 13:25:34 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-11#weather-menu
+2021-06-06 13:25:35 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pt 11.06
+2021-06-06 15:45:44 [main] INFO  example.Main - Launching Weather Station!
+2021-06-06 15:45:44 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-06 15:45:45 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-06-06 15:45:45 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-06-06 15:45:45 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-jutro#weather-menu
+2021-06-06 15:45:46 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Jutro Pn
+2021-06-06 15:45:46 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-pojutrze#weather-menu
+2021-06-06 15:45:47 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pojutrze Wt
+2021-06-06 15:45:47 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-09#weather-menu
+2021-06-06 15:45:47 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Śr 09.06
+2021-06-06 15:45:47 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-10#weather-menu
+2021-06-06 15:45:48 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Cz 10.06
+2021-06-06 15:45:48 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-11#weather-menu
+2021-06-06 15:45:48 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pt 11.06
+2021-06-06 15:51:42 [main] INFO  example.Main - Launching Weather Station!
+2021-06-06 15:51:42 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-06 15:51:43 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-06-06 15:51:43 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-06-06 15:51:43 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-jutro#weather-menu
+2021-06-06 15:51:43 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Jutro Pn
+2021-06-06 15:51:43 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-pojutrze#weather-menu
+2021-06-06 15:51:43 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pojutrze Wt
+2021-06-06 15:51:43 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-09#weather-menu
+2021-06-06 15:51:44 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Śr 09.06
+2021-06-06 15:51:44 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-10#weather-menu
+2021-06-06 15:51:44 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Cz 10.06
+2021-06-06 15:51:44 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-11#weather-menu
+2021-06-06 15:51:45 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pt 11.06
+2021-06-06 16:15:51 [main] INFO  example.Main - Launching Weather Station!
+2021-06-06 16:15:51 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-06 16:15:52 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-06-06 16:15:53 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-06-06 16:15:53 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-jutro#weather-menu
+2021-06-06 16:15:53 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Jutro Pn
+2021-06-06 16:15:53 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-pojutrze#weather-menu
+2021-06-06 16:15:54 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pojutrze Wt
+2021-06-06 16:15:54 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-09#weather-menu
+2021-06-06 16:15:54 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Śr 09.06
+2021-06-06 16:15:54 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-10#weather-menu
+2021-06-06 16:15:54 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Cz 10.06
+2021-06-06 16:15:54 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-11#weather-menu
+2021-06-06 16:15:55 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pt 11.06
+2021-06-06 16:18:27 [main] INFO  example.Main - Launching Weather Station!
+2021-06-06 16:18:27 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-06 16:18:28 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-06-06 16:18:29 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-06-06 16:18:29 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-jutro#weather-menu
+2021-06-06 16:18:29 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Jutro Pn
+2021-06-06 16:18:29 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-pojutrze#weather-menu
+2021-06-06 16:18:30 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pojutrze Wt
+2021-06-06 16:18:30 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-09#weather-menu
+2021-06-06 16:18:31 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Śr 09.06
+2021-06-06 16:18:31 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-10#weather-menu
+2021-06-06 16:18:31 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Cz 10.06
+2021-06-06 16:18:31 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-11#weather-menu
+2021-06-06 16:18:32 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pt 11.06
+2021-06-06 17:18:22 [main] INFO  example.Main - Launching Weather Station!
+2021-06-06 17:18:22 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-06 17:18:23 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-06-06 17:18:24 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-06-06 17:18:24 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-jutro#weather-menu
+2021-06-06 17:18:24 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Jutro Pn
+2021-06-06 17:18:24 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-pojutrze#weather-menu
+2021-06-06 17:18:25 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pojutrze Wt
+2021-06-06 17:18:25 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-09#weather-menu
+2021-06-06 17:18:25 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Śr 09.06
+2021-06-06 17:18:25 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-10#weather-menu
+2021-06-06 17:18:26 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Cz 10.06
+2021-06-06 17:18:26 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-11#weather-menu
+2021-06-06 17:18:27 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pt 11.06
+2021-06-06 17:48:28 [main] INFO  example.Main - Launching Weather Station!
+2021-06-06 17:48:28 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-06 17:48:28 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-06-06 17:48:29 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-06-06 18:08:00 [main] INFO  example.Main - Launching Weather Station!
+2021-06-06 18:08:00 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-06 18:08:01 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-06-06 18:08:02 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-06-06 18:31:14 [main] INFO  example.Main - Launching Weather Station!
+2021-06-06 18:31:14 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-06 18:31:15 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-06-06 18:31:16 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-06-06 18:32:38 [main] INFO  example.Main - Launching Weather Station!
+2021-06-06 18:32:38 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-06 18:32:38 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-06-06 18:32:39 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-06-06 18:33:13 [main] INFO  example.Main - Launching Weather Station!
+2021-06-06 18:33:13 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-06 18:33:14 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-06-06 18:33:14 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-06-06 18:33:46 [main] INFO  example.Main - Launching Weather Station!
+2021-06-06 18:33:46 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-06 18:33:47 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-06-06 18:33:47 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-06-06 18:34:15 [main] INFO  example.Main - Launching Weather Station!
+2021-06-06 18:34:15 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-06 18:34:16 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-06-06 18:34:16 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-06-06 18:34:38 [main] INFO  example.Main - Launching Weather Station!
+2021-06-06 18:34:38 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-06 18:34:39 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-06-06 18:34:40 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-06-06 18:34:54 [main] INFO  example.Main - Launching Weather Station!
+2021-06-06 18:34:54 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-06 18:34:55 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-06-06 18:34:56 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-06-06 18:35:30 [main] INFO  example.Main - Launching Weather Station!
+2021-06-06 18:35:30 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-06 18:35:31 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-06-06 18:35:31 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-06-06 18:37:24 [main] INFO  example.Main - Launching Weather Station!
+2021-06-06 18:37:24 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-06 18:37:24 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-06-06 18:37:25 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-06-06 18:46:05 [main] INFO  example.Main - Launching Weather Station!
+2021-06-06 18:46:05 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-06 18:46:06 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-06-06 18:46:06 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-06-06 18:46:06 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-jutro#weather-menu
+2021-06-06 18:46:07 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Jutro Pn
+2021-06-06 18:46:07 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-pojutrze#weather-menu
+2021-06-06 18:46:08 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pojutrze Wt
+2021-06-06 18:46:08 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-09#weather-menu
+2021-06-06 18:46:08 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Śr 09.06
+2021-06-06 18:46:08 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-10#weather-menu
+2021-06-06 18:46:09 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Cz 10.06
+2021-06-06 18:46:09 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-11#weather-menu
+2021-06-06 18:46:09 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pt 11.06
+2021-06-06 18:46:09 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-12#weather-menu
+2021-06-06 18:46:10 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Sb 12.06
+2021-06-06 18:46:10 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-13#weather-menu
+2021-06-06 18:46:10 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Nd 13.06
+2021-06-06 18:46:10 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-14#weather-menu
+2021-06-06 18:46:11 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pn 14.06
+2021-06-06 18:46:24 [main] INFO  example.Main - Launching Weather Station!
+2021-06-06 18:46:24 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-06 18:46:25 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-06-06 18:46:26 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-06-06 18:46:26 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-jutro#weather-menu
+2021-06-06 18:46:27 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Jutro Pn
+2021-06-06 18:46:27 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-pojutrze#weather-menu
+2021-06-06 18:46:27 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pojutrze Wt
+2021-06-06 18:46:27 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-09#weather-menu
+2021-06-06 18:46:28 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Śr 09.06
+2021-06-06 18:46:28 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-10#weather-menu
+2021-06-06 18:46:28 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Cz 10.06
+2021-06-06 18:46:28 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-11#weather-menu
+2021-06-06 18:46:29 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pt 11.06
+2021-06-06 18:46:29 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-12#weather-menu
+2021-06-06 18:46:30 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Sb 12.06
+2021-06-06 18:46:30 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-13#weather-menu
+2021-06-06 18:46:30 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Nd 13.06
+2021-06-06 18:46:30 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-14#weather-menu
+2021-06-06 18:46:31 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pn 14.06
+2021-06-06 18:46:31 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-15#weather-menu
+2021-06-06 18:46:31 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Wt 15.06
+2021-06-06 18:46:31 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-16#weather-menu
+2021-06-06 18:46:32 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Śr 16.06
+2021-06-06 18:46:32 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-17#weather-menu
+2021-06-06 18:46:33 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Cz 17.06
+2021-06-06 18:46:33 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-18#weather-menu
+2021-06-06 18:46:33 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pt 18.06
+2021-06-06 18:46:33 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-19#weather-menu
+2021-06-06 18:46:34 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Sb 19.06
+2021-06-06 18:52:20 [main] INFO  example.Main - Launching Weather Forecast!
+2021-06-06 18:52:20 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-06 18:52:21 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-06-06 18:52:22 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-06-06 18:52:22 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-jutro#weather-menu
+2021-06-06 18:52:23 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Jutro Pn
+2021-06-06 18:52:23 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-pojutrze#weather-menu
+2021-06-06 18:52:23 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pojutrze Wt
+2021-06-06 18:52:23 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-09#weather-menu
+2021-06-06 18:52:24 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Śr 09.06
+2021-06-06 18:52:24 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-10#weather-menu
+2021-06-06 18:52:24 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Cz 10.06
+2021-06-06 18:52:24 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-11#weather-menu
+2021-06-06 18:52:25 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pt 11.06
+2021-06-06 18:52:25 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-12#weather-menu
+2021-06-06 18:52:25 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Sb 12.06
+2021-06-06 18:52:25 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-13#weather-menu
+2021-06-06 18:52:25 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Nd 13.06
+2021-06-06 18:52:25 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-14#weather-menu
+2021-06-06 18:52:26 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pn 14.06
+2021-06-06 18:52:26 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-15#weather-menu
+2021-06-06 18:52:26 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Wt 15.06
+2021-06-06 18:52:26 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-16#weather-menu
+2021-06-06 18:52:27 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Śr 16.06
+2021-06-06 18:52:27 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-17#weather-menu
+2021-06-06 18:52:28 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Cz 17.06
+2021-06-06 18:52:28 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-18#weather-menu
+2021-06-06 18:52:28 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pt 18.06
+2021-06-06 18:52:28 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-19#weather-menu
+2021-06-06 18:52:29 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Sb 19.06
+2021-06-06 18:54:46 [main] INFO  example.Main - Launching Weather Forecast!
+2021-06-06 18:54:46 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-06 18:54:47 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-06-06 18:54:48 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-06-06 18:54:48 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-jutro#weather-menu
+2021-06-06 18:54:48 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Jutro Pn
+2021-06-06 18:54:48 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-pojutrze#weather-menu
+2021-06-06 18:54:48 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pojutrze Wt
+2021-06-06 18:54:48 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-09#weather-menu
+2021-06-06 18:54:49 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Śr 09.06
+2021-06-06 18:54:49 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-10#weather-menu
+2021-06-06 18:54:49 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Cz 10.06
+2021-06-06 18:54:49 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-11#weather-menu
+2021-06-06 18:54:50 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pt 11.06
+2021-06-06 18:54:50 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-12#weather-menu
+2021-06-06 18:54:50 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Sb 12.06
+2021-06-06 18:54:50 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-13#weather-menu
+2021-06-06 18:54:50 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Nd 13.06
+2021-06-06 18:54:50 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-14#weather-menu
+2021-06-06 18:54:51 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pn 14.06
+2021-06-06 18:54:51 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-15#weather-menu
+2021-06-06 18:54:52 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Wt 15.06
+2021-06-06 18:54:52 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-16#weather-menu
+2021-06-06 18:54:52 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Śr 16.06
+2021-06-06 18:54:52 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-17#weather-menu
+2021-06-06 18:54:53 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Cz 17.06
+2021-06-06 18:54:53 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-18#weather-menu
+2021-06-06 18:54:54 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pt 18.06
+2021-06-06 18:54:54 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-19#weather-menu
+2021-06-06 18:54:54 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Sb 19.06
+2021-06-06 20:20:53 [main] INFO  example.Main - Launching Weather Forecast!
+2021-06-06 20:20:53 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-06 20:20:54 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-06-06 20:20:54 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-06-06 20:20:54 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-jutro#weather-menu
+2021-06-06 20:20:55 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Jutro Pn
+2021-06-06 20:20:55 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-pojutrze#weather-menu
+2021-06-06 20:20:56 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pojutrze Wt
+2021-06-06 20:20:56 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-09#weather-menu
+2021-06-06 20:20:56 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Śr 09.06
+2021-06-06 20:20:56 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-10#weather-menu
+2021-06-06 20:20:57 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Cz 10.06
+2021-06-06 20:20:57 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-11#weather-menu
+2021-06-06 20:20:57 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pt 11.06
+2021-06-06 20:20:57 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-12#weather-menu
+2021-06-06 20:20:58 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Sb 12.06
+2021-06-06 20:20:58 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-13#weather-menu
+2021-06-06 20:20:58 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Nd 13.06
+2021-06-06 20:20:58 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-14#weather-menu
+2021-06-06 20:20:59 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pn 14.06
+2021-06-06 20:20:59 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-15#weather-menu
+2021-06-06 20:21:00 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Wt 15.06
+2021-06-06 20:21:00 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-16#weather-menu
+2021-06-06 20:21:00 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Śr 16.06
+2021-06-06 20:21:00 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-17#weather-menu
+2021-06-06 20:21:01 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Cz 17.06
+2021-06-06 20:21:01 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-18#weather-menu
+2021-06-06 20:21:01 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pt 18.06
+2021-06-06 20:21:01 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-19#weather-menu
+2021-06-06 20:21:02 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Sb 19.06
+2021-06-06 20:21:42 [main] INFO  example.Main - Launching Weather Forecast!
+2021-06-06 20:21:42 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-06 20:21:43 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-06-06 20:21:44 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-06-06 20:21:44 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-jutro#weather-menu
+2021-06-06 20:21:45 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Jutro Pn
+2021-06-06 20:21:45 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-pojutrze#weather-menu
+2021-06-06 20:21:45 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pojutrze Wt
+2021-06-06 20:21:45 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-09#weather-menu
+2021-06-06 20:21:45 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Śr 09.06
+2021-06-06 20:21:45 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-10#weather-menu
+2021-06-06 20:21:46 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Cz 10.06
+2021-06-06 20:21:46 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-11#weather-menu
+2021-06-06 20:21:46 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pt 11.06
+2021-06-06 20:21:46 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-12#weather-menu
+2021-06-06 20:21:46 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Sb 12.06
+2021-06-06 20:21:46 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-13#weather-menu
+2021-06-06 20:21:47 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Nd 13.06
+2021-06-06 20:21:47 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-14#weather-menu
+2021-06-06 20:21:47 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pn 14.06
+2021-06-06 20:21:47 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-15#weather-menu
+2021-06-06 20:21:48 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Wt 15.06
+2021-06-06 20:21:48 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-16#weather-menu
+2021-06-06 20:21:48 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Śr 16.06
+2021-06-06 20:21:48 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-17#weather-menu
+2021-06-06 20:21:48 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Cz 17.06
+2021-06-06 20:21:48 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-18#weather-menu
+2021-06-06 20:21:48 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pt 18.06
+2021-06-06 20:21:48 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-19#weather-menu
+2021-06-06 20:21:49 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Sb 19.06
+2021-06-06 20:22:24 [main] INFO  example.Main - Launching Weather Forecast!
+2021-06-06 20:22:24 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-06 20:22:25 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-06-06 20:22:25 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-06-06 20:22:25 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-jutro#weather-menu
+2021-06-06 20:22:25 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Jutro Pn
+2021-06-06 20:22:25 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-pojutrze#weather-menu
+2021-06-06 20:22:26 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pojutrze Wt
+2021-06-06 20:22:26 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-09#weather-menu
+2021-06-06 20:22:26 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Śr 09.06
+2021-06-06 20:22:26 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-10#weather-menu
+2021-06-06 20:22:26 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Cz 10.06
+2021-06-06 20:22:26 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-11#weather-menu
+2021-06-06 20:22:27 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pt 11.06
+2021-06-06 20:22:27 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-12#weather-menu
+2021-06-06 20:22:27 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Sb 12.06
+2021-06-06 20:22:27 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-13#weather-menu
+2021-06-06 20:22:27 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Nd 13.06
+2021-06-06 20:22:27 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-14#weather-menu
+2021-06-06 20:22:28 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pn 14.06
+2021-06-06 20:22:28 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-15#weather-menu
+2021-06-06 20:22:29 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Wt 15.06
+2021-06-06 20:22:29 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-16#weather-menu
+2021-06-06 20:22:29 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Śr 16.06
+2021-06-06 20:22:29 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-17#weather-menu
+2021-06-06 20:22:29 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Cz 17.06
+2021-06-06 20:22:29 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-18#weather-menu
+2021-06-06 20:22:30 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pt 18.06
+2021-06-06 20:22:30 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-19#weather-menu
+2021-06-06 20:22:31 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Sb 19.06
+2021-06-06 20:24:29 [main] INFO  example.Main - Launching Weather Forecast!
+2021-06-06 20:24:29 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-06 20:24:30 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-06-06 20:24:31 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-06-06 20:24:31 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-jutro#weather-menu
+2021-06-06 20:24:32 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Jutro Pn
+2021-06-06 20:24:32 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-pojutrze#weather-menu
+2021-06-06 20:24:32 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pojutrze Wt
+2021-06-06 20:24:32 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-09#weather-menu
+2021-06-06 20:24:33 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Śr 09.06
+2021-06-06 20:24:33 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-10#weather-menu
+2021-06-06 20:24:33 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Cz 10.06
+2021-06-06 20:24:33 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-11#weather-menu
+2021-06-06 20:24:34 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pt 11.06
+2021-06-06 20:24:34 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-12#weather-menu
+2021-06-06 20:24:34 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Sb 12.06
+2021-06-06 20:24:34 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-13#weather-menu
+2021-06-06 20:24:35 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Nd 13.06
+2021-06-06 20:24:35 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-14#weather-menu
+2021-06-06 20:24:36 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pn 14.06
+2021-06-06 20:24:36 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-15#weather-menu
+2021-06-06 20:24:36 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Wt 15.06
+2021-06-06 20:24:36 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-16#weather-menu
+2021-06-06 20:24:37 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Śr 16.06
+2021-06-06 20:24:37 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-17#weather-menu
+2021-06-06 20:24:37 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Cz 17.06
+2021-06-06 20:24:37 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-18#weather-menu
+2021-06-06 20:24:38 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pt 18.06
+2021-06-06 20:24:38 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-19#weather-menu
+2021-06-06 20:24:39 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Sb 19.06
+2021-06-06 20:25:21 [main] INFO  example.Main - Launching Weather Forecast!
+2021-06-06 20:25:21 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-06 20:25:22 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-06-06 20:25:22 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-06-06 20:25:22 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-jutro#weather-menu
+2021-06-06 20:25:23 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Jutro Pn
+2021-06-06 20:25:23 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-pojutrze#weather-menu
+2021-06-06 20:25:23 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pojutrze Wt
+2021-06-06 20:25:23 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-09#weather-menu
+2021-06-06 20:25:24 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Śr 09.06
+2021-06-06 20:25:24 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-10#weather-menu
+2021-06-06 20:25:25 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Cz 10.06
+2021-06-06 20:25:25 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-11#weather-menu
+2021-06-06 20:25:25 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pt 11.06
+2021-06-06 20:25:25 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-12#weather-menu
+2021-06-06 20:25:26 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Sb 12.06
+2021-06-06 20:25:26 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-13#weather-menu
+2021-06-06 20:25:26 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Nd 13.06
+2021-06-06 20:25:26 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-14#weather-menu
+2021-06-06 20:25:27 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pn 14.06
+2021-06-06 20:25:27 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-15#weather-menu
+2021-06-06 20:25:27 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Wt 15.06
+2021-06-06 20:25:27 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-16#weather-menu
+2021-06-06 20:25:27 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Śr 16.06
+2021-06-06 20:25:27 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-17#weather-menu
+2021-06-06 20:25:28 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Cz 17.06
+2021-06-06 20:25:28 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-18#weather-menu
+2021-06-06 20:25:28 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pt 18.06
+2021-06-06 20:25:28 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-19#weather-menu
+2021-06-06 20:25:29 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Sb 19.06
+2021-06-06 20:26:03 [main] INFO  example.Main - Launching Weather Forecast!
+2021-06-06 20:26:03 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-06 20:26:04 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-06-06 20:26:05 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-06-06 20:26:05 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-jutro#weather-menu
+2021-06-06 20:26:05 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Jutro Pn
+2021-06-06 20:26:05 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-pojutrze#weather-menu
+2021-06-06 20:26:06 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pojutrze Wt
+2021-06-06 20:26:06 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-09#weather-menu
+2021-06-06 20:26:06 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Śr 09.06
+2021-06-06 20:26:06 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-10#weather-menu
+2021-06-06 20:26:07 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Cz 10.06
+2021-06-06 20:26:07 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-11#weather-menu
+2021-06-06 20:26:07 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pt 11.06
+2021-06-06 20:26:07 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-12#weather-menu
+2021-06-06 20:26:08 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Sb 12.06
+2021-06-06 20:26:08 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-13#weather-menu
+2021-06-06 20:26:08 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Nd 13.06
+2021-06-06 20:26:08 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-14#weather-menu
+2021-06-06 20:26:08 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pn 14.06
+2021-06-06 20:26:08 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-15#weather-menu
+2021-06-06 20:26:09 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Wt 15.06
+2021-06-06 20:26:09 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-16#weather-menu
+2021-06-06 20:26:10 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Śr 16.06
+2021-06-06 20:26:10 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-17#weather-menu
+2021-06-06 20:26:10 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Cz 17.06
+2021-06-06 20:26:10 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-18#weather-menu
+2021-06-06 20:26:11 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pt 18.06
+2021-06-06 20:26:11 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-19#weather-menu
+2021-06-06 20:26:11 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Sb 19.06
+2021-06-06 20:27:06 [main] INFO  example.Main - Launching Weather Forecast!
+2021-06-06 20:27:06 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-06 20:27:06 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-06-06 20:27:07 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-06-06 20:27:07 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-jutro#weather-menu
+2021-06-06 20:27:08 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Jutro Pn
+2021-06-06 20:27:08 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-pojutrze#weather-menu
+2021-06-06 20:27:08 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pojutrze Wt
+2021-06-06 20:27:08 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-09#weather-menu
+2021-06-06 20:27:09 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Śr 09.06
+2021-06-06 20:27:09 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-10#weather-menu
+2021-06-06 20:27:10 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Cz 10.06
+2021-06-06 20:27:10 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-11#weather-menu
+2021-06-06 20:27:10 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pt 11.06
+2021-06-06 20:27:10 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-12#weather-menu
+2021-06-06 20:27:11 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Sb 12.06
+2021-06-06 20:27:11 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-13#weather-menu
+2021-06-06 20:27:11 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Nd 13.06
+2021-06-06 20:27:11 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-14#weather-menu
+2021-06-06 20:27:12 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pn 14.06
+2021-06-06 20:27:12 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-15#weather-menu
+2021-06-06 20:27:12 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Wt 15.06
+2021-06-06 20:27:12 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-16#weather-menu
+2021-06-06 20:27:13 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Śr 16.06
+2021-06-06 20:27:13 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-17#weather-menu
+2021-06-06 20:27:14 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Cz 17.06
+2021-06-06 20:27:14 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-18#weather-menu
+2021-06-06 20:27:14 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pt 18.06
+2021-06-06 20:27:14 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-19#weather-menu
+2021-06-06 20:27:15 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Sb 19.06
+2021-06-06 20:27:34 [main] INFO  example.Main - Launching Weather Forecast!
+2021-06-06 20:27:34 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-06 20:27:35 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-06-06 20:27:36 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-06-06 20:27:36 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-jutro#weather-menu
+2021-06-06 20:27:37 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Jutro Pn
+2021-06-06 20:27:37 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-pojutrze#weather-menu
+2021-06-06 20:27:37 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pojutrze Wt
+2021-06-06 20:27:37 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-09#weather-menu
+2021-06-06 20:27:38 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Śr 09.06
+2021-06-06 20:27:38 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-10#weather-menu
+2021-06-06 20:27:38 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Cz 10.06
+2021-06-06 20:27:38 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-11#weather-menu
+2021-06-06 20:27:38 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pt 11.06
+2021-06-06 20:27:38 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-12#weather-menu
+2021-06-06 20:27:39 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Sb 12.06
+2021-06-06 20:27:39 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-13#weather-menu
+2021-06-06 20:27:39 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Nd 13.06
+2021-06-06 20:27:39 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-14#weather-menu
+2021-06-06 20:27:40 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pn 14.06
+2021-06-06 20:27:40 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-15#weather-menu
+2021-06-06 20:27:40 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Wt 15.06
+2021-06-06 20:27:40 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-16#weather-menu
+2021-06-06 20:27:41 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Śr 16.06
+2021-06-06 20:27:41 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-17#weather-menu
+2021-06-06 20:27:42 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Cz 17.06
+2021-06-06 20:27:42 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-18#weather-menu
+2021-06-06 20:27:42 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pt 18.06
+2021-06-06 20:27:42 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-19#weather-menu
+2021-06-06 20:27:42 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Sb 19.06
+2021-06-06 20:28:06 [main] INFO  example.Main - Launching Weather Forecast!
+2021-06-06 20:28:06 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-06 20:28:06 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-06-06 20:28:07 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-06-06 20:29:20 [main] INFO  example.Main - Launching Weather Forecast!
+2021-06-06 20:29:20 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-06 20:29:21 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-06-06 20:29:22 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-06-06 20:30:01 [main] INFO  example.Main - Launching Weather Forecast!
+2021-06-06 20:30:01 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-06 20:30:01 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-06-06 20:30:03 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-06-06 20:30:28 [main] INFO  example.Main - Launching Weather Forecast!
+2021-06-06 20:30:28 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-06 20:30:29 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-06-06 20:30:30 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-06-06 20:31:09 [main] INFO  example.Main - Launching Weather Forecast!
+2021-06-06 20:31:09 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-06 20:31:09 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-06-06 20:31:10 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-06-06 20:31:31 [main] INFO  example.Main - Launching Weather Forecast!
+2021-06-06 20:31:31 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-06 20:31:32 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-06-06 20:31:32 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-06-06 20:31:32 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-jutro#weather-menu
+2021-06-06 20:31:33 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Jutro Pn
+2021-06-06 20:31:33 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-pojutrze#weather-menu
+2021-06-06 20:31:33 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pojutrze Wt
+2021-06-06 20:31:33 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-09#weather-menu
+2021-06-06 20:31:34 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Śr 09.06
+2021-06-06 20:32:16 [main] INFO  example.Main - Launching Weather Forecast!
+2021-06-06 20:32:16 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-06 20:32:16 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-06-06 20:32:17 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-06-06 20:32:17 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-jutro#weather-menu
+2021-06-06 20:32:18 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Jutro Pn
+2021-06-06 20:32:18 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-pojutrze#weather-menu
+2021-06-06 20:32:19 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pojutrze Wt
+2021-06-06 20:32:19 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-09#weather-menu
+2021-06-06 20:32:19 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Śr 09.06
+2021-06-06 20:32:19 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-10#weather-menu
+2021-06-06 20:32:20 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Cz 10.06
+2021-06-06 20:32:20 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-11#weather-menu
+2021-06-06 20:32:20 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pt 11.06
+2021-06-06 20:32:20 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-12#weather-menu
+2021-06-06 20:32:21 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Sb 12.06
+2021-06-06 20:32:21 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-13#weather-menu
+2021-06-06 20:32:22 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Nd 13.06
+2021-06-06 20:32:22 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-14#weather-menu
+2021-06-06 20:32:22 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pn 14.06
+2021-06-06 20:32:22 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-15#weather-menu
+2021-06-06 20:32:23 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Wt 15.06
+2021-06-06 20:32:23 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-16#weather-menu
+2021-06-06 20:32:23 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Śr 16.06
+2021-06-06 20:32:23 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-17#weather-menu
+2021-06-06 20:32:23 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Cz 17.06
+2021-06-06 20:32:23 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-18#weather-menu
+2021-06-06 20:32:24 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pt 18.06
+2021-06-06 20:32:24 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-19#weather-menu
+2021-06-06 20:32:24 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Sb 19.06
+2021-06-06 20:38:17 [main] INFO  example.Main - Launching Weather Forecast!
+2021-06-06 20:38:17 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-06 20:38:17 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-06-06 20:38:18 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-06-06 20:40:02 [main] INFO  example.Main - Launching Weather Forecast!
+2021-06-06 20:40:02 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-06 20:40:03 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-06-06 20:40:04 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-06-06 20:40:47 [main] INFO  example.Main - Launching Weather Forecast!
+2021-06-06 20:40:47 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-06 20:40:47 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-06-06 20:40:48 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-06-06 20:41:37 [main] INFO  example.Main - Launching Weather Forecast!
+2021-06-06 20:41:37 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-06 20:41:38 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-06-06 20:41:39 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-06-06 20:42:24 [main] INFO  example.Main - Launching Weather Forecast!
+2021-06-06 20:42:24 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-06 20:42:24 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-06-06 20:42:25 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-06-06 20:42:42 [main] INFO  example.Main - Launching Weather Forecast!
+2021-06-06 20:42:42 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-06 20:42:43 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-06-06 20:42:43 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-06-06 20:42:53 [main] INFO  example.Main - Launching Weather Forecast!
+2021-06-06 20:42:53 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-06 20:42:54 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-06-06 20:42:55 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-06-06 20:43:25 [main] INFO  example.Main - Launching Weather Forecast!
+2021-06-06 20:43:25 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-06 20:43:26 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-06-06 20:43:27 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-06-06 20:43:27 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-jutro#weather-menu
+2021-06-06 20:43:28 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Jutro Pn
+2021-06-06 20:43:28 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-pojutrze#weather-menu
+2021-06-06 20:43:28 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pojutrze Wt
+2021-06-06 20:43:28 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-09#weather-menu
+2021-06-06 20:43:29 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Śr 09.06
+2021-06-06 20:43:29 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-10#weather-menu
+2021-06-06 20:43:29 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Cz 10.06
+2021-06-06 20:43:29 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-11#weather-menu
+2021-06-06 20:43:29 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pt 11.06
+2021-06-06 20:43:29 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-12#weather-menu
+2021-06-06 20:43:30 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Sb 12.06
+2021-06-06 20:43:30 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-13#weather-menu
+2021-06-06 20:43:30 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Nd 13.06
+2021-06-06 20:43:30 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-14#weather-menu
+2021-06-06 20:43:31 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pn 14.06
+2021-06-06 20:43:31 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-15#weather-menu
+2021-06-06 20:43:32 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Wt 15.06
+2021-06-06 20:43:32 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-16#weather-menu
+2021-06-06 20:43:32 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Śr 16.06
+2021-06-06 20:43:32 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-17#weather-menu
+2021-06-06 20:43:33 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Cz 17.06
+2021-06-06 20:43:33 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-18#weather-menu
+2021-06-06 20:43:33 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pt 18.06
+2021-06-06 20:43:33 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-19#weather-menu
+2021-06-06 20:43:34 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Sb 19.06
+2021-06-07 06:59:26 [main] INFO  example.Main - Launching Weather Forecast!
+2021-06-07 06:59:26 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-07 06:59:27 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-06-07 06:59:27 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-06-07 06:59:27 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-jutro#weather-menu
+2021-06-07 06:59:27 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Jutro Wt
+2021-06-07 06:59:27 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-pojutrze#weather-menu
+2021-06-07 06:59:28 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pojutrze Śr
+2021-06-07 06:59:28 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-10#weather-menu
+2021-06-07 06:59:28 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Cz 10.06
+2021-06-07 06:59:28 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-11#weather-menu
+2021-06-07 06:59:28 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pt 11.06
+2021-06-07 06:59:28 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-12#weather-menu
+2021-06-07 06:59:29 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Sb 12.06
+2021-06-07 06:59:29 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-13#weather-menu
+2021-06-07 06:59:29 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Nd 13.06
+2021-06-07 06:59:29 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-14#weather-menu
+2021-06-07 06:59:29 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pn 14.06
+2021-06-07 06:59:29 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-15#weather-menu
+2021-06-07 06:59:30 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Wt 15.06
+2021-06-07 06:59:30 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-16#weather-menu
+2021-06-07 06:59:30 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Śr 16.06
+2021-06-07 06:59:30 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-17#weather-menu
+2021-06-07 06:59:31 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Cz 17.06
+2021-06-07 06:59:31 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-18#weather-menu
+2021-06-07 06:59:31 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pt 18.06
+2021-06-07 06:59:31 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-19#weather-menu
+2021-06-07 06:59:32 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Sb 19.06
+2021-06-07 06:59:32 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-20#weather-menu
+2021-06-07 06:59:33 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Nd 20.06
+2021-06-07 08:04:03 [main] INFO  example.Main - Launching Weather Forecast!
+2021-06-07 08:04:03 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-07 08:04:04 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-06-07 08:04:05 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-06-07 08:04:05 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-jutro#weather-menu
+2021-06-07 08:04:05 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Jutro Wt
+2021-06-07 08:04:05 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-pojutrze#weather-menu
+2021-06-07 08:04:06 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pojutrze Śr
+2021-06-07 08:04:06 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-10#weather-menu
+2021-06-07 08:04:06 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Cz 10.06
+2021-06-07 08:04:06 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-11#weather-menu
+2021-06-07 08:04:06 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pt 11.06
+2021-06-07 08:04:06 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-12#weather-menu
+2021-06-07 08:04:06 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Sb 12.06
+2021-06-07 08:04:06 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-13#weather-menu
+2021-06-07 08:04:07 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Nd 13.06
+2021-06-07 08:04:07 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-14#weather-menu
+2021-06-07 08:04:07 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pn 14.06
+2021-06-07 08:04:07 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-15#weather-menu
+2021-06-07 08:04:08 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Wt 15.06
+2021-06-07 08:04:08 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-16#weather-menu
+2021-06-07 08:04:09 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Śr 16.06
+2021-06-07 08:04:09 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-17#weather-menu
+2021-06-07 08:04:09 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Cz 17.06
+2021-06-07 08:04:09 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-18#weather-menu
+2021-06-07 08:04:10 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pt 18.06
+2021-06-07 08:04:10 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-19#weather-menu
+2021-06-07 08:04:10 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Sb 19.06
+2021-06-07 08:04:10 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-20#weather-menu
+2021-06-07 08:04:11 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Nd 20.06
+2021-06-07 08:08:50 [main] INFO  example.Main - Launching Weather Forecast!
+2021-06-07 08:08:50 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-07 08:08:51 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-06-07 08:08:52 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-06-07 08:08:52 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-jutro#weather-menu
+2021-06-07 08:08:52 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Jutro Wt
+2021-06-07 08:08:52 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-pojutrze#weather-menu
+2021-06-07 08:08:53 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pojutrze Śr
+2021-06-07 08:08:53 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-10#weather-menu
+2021-06-07 08:08:54 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Cz 10.06
+2021-06-07 08:08:54 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-11#weather-menu
+2021-06-07 08:08:54 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pt 11.06
+2021-06-07 08:08:54 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-12#weather-menu
+2021-06-07 08:08:54 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Sb 12.06
+2021-06-07 08:08:54 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-13#weather-menu
+2021-06-07 08:08:55 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Nd 13.06
+2021-06-07 08:08:55 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-14#weather-menu
+2021-06-07 08:08:55 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pn 14.06
+2021-06-07 08:08:55 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-15#weather-menu
+2021-06-07 08:08:56 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Wt 15.06
+2021-06-07 08:08:56 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-16#weather-menu
+2021-06-07 08:08:56 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Śr 16.06
+2021-06-07 08:08:56 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-17#weather-menu
+2021-06-07 08:08:56 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Cz 17.06
+2021-06-07 08:08:56 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-18#weather-menu
+2021-06-07 08:08:57 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pt 18.06
+2021-06-07 08:08:57 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-19#weather-menu
+2021-06-07 08:08:58 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Sb 19.06
+2021-06-07 08:08:58 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-20#weather-menu
+2021-06-07 08:08:58 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Nd 20.06
+2021-06-07 11:10:14 [main] INFO  example.Main - Launching Weather Forecast!
+2021-06-07 11:10:14 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-06-07 11:10:15 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-06-07 11:10:16 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-06-07 11:10:16 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-jutro#weather-menu
+2021-06-07 11:10:16 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Jutro Wt
+2021-06-07 11:10:16 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-pojutrze#weather-menu
+2021-06-07 11:10:17 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pojutrze Śr
+2021-06-07 11:10:17 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-10#weather-menu
+2021-06-07 11:10:17 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Cz 10.06
+2021-06-07 11:10:17 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-11#weather-menu
+2021-06-07 11:10:18 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pt 11.06
+2021-06-07 11:10:18 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-12#weather-menu
+2021-06-07 11:10:19 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Sb 12.06
+2021-06-07 11:10:19 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-13#weather-menu
+2021-06-07 11:10:19 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Nd 13.06
+2021-06-07 11:10:19 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-14#weather-menu
+2021-06-07 11:10:20 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pn 14.06
+2021-06-07 11:10:20 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-15#weather-menu
+2021-06-07 11:10:20 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Wt 15.06
+2021-06-07 11:10:20 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-16#weather-menu
+2021-06-07 11:10:21 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Śr 16.06
+2021-06-07 11:10:21 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-17#weather-menu
+2021-06-07 11:10:21 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Cz 17.06
+2021-06-07 11:10:21 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-18#weather-menu
+2021-06-07 11:10:21 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pt 18.06
+2021-06-07 11:10:21 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-19#weather-menu
+2021-06-07 11:10:22 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Sb 19.06
+2021-06-07 11:10:22 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-06-20#weather-menu
+2021-06-07 11:10:23 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Nd 20.06
+2021-07-21 11:34:35 [main] INFO  example.Main - Launching Weather Forecast!
+2021-07-21 11:34:35 [main] INFO  example.Main - Connecting to site https://pogoda.interia.pl/
+2021-07-21 11:34:37 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-dzisiaj#weather-menu
+2021-07-21 11:34:38 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Dzisiaj
+2021-07-21 11:34:38 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-jutro#weather-menu
+2021-07-21 11:34:39 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Jutro Cz
+2021-07-21 11:34:39 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska-prognoza-pojutrze#weather-menu
+2021-07-21 11:34:39 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pojutrze Pt
+2021-07-21 11:34:39 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-07-24#weather-menu
+2021-07-21 11:34:39 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Sb 24.07
+2021-07-21 11:34:39 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-07-25#weather-menu
+2021-07-21 11:34:40 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Nd 25.07
+2021-07-21 11:34:40 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-07-26#weather-menu
+2021-07-21 11:34:40 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pn 26.07
+2021-07-21 11:34:40 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-07-27#weather-menu
+2021-07-21 11:34:41 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Wt 27.07
+2021-07-21 11:34:41 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-07-28#weather-menu
+2021-07-21 11:34:41 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Śr 28.07
+2021-07-21 11:34:41 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-07-29#weather-menu
+2021-07-21 11:34:42 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Cz 29.07
+2021-07-21 11:34:42 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-07-30#weather-menu
+2021-07-21 11:34:43 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pt 30.07
+2021-07-21 11:34:43 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-07-31#weather-menu
+2021-07-21 11:34:43 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Sb 31.07
+2021-07-21 11:34:43 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-08-01#weather-menu
+2021-07-21 11:34:43 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Nd 01.08
+2021-07-21 11:34:43 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-08-02#weather-menu
+2021-07-21 11:34:44 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Pn 02.08
+2021-07-21 11:34:44 [AWT-EventQueue-0] INFO  example.Tabs - Connecting to site https://pogoda.interia.pl/polska/prognoza,nDate,2021-08-03#weather-menu
+2021-07-21 11:34:44 [AWT-EventQueue-0] INFO  example.Tabs - Created Tab: Wt 03.08
